@@ -1,6 +1,6 @@
 # Journal App
 
-This an android Journal/Diary app where in users can pen down their thoughts and feelings. 
+This is an android Journal/Diary app where in users can pen down their thoughts and feelings. 
 
 # Features
 

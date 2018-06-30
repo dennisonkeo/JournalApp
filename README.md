@@ -1,16 +1,11 @@
-# Pixel Art Maker Project
+# Journal App
 
-## Table of Contents
+This an android Journal/Diary app where in users can pen down their thoughts and feelings. 
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+# Features
 
-## Instructions
+* The App provides registration and login using google authentication.
+*The app allows user to add their thoughts.
+* Users can modify or delete their entries.
+* Users can view all entries to the diary and view contents of a diary entry.
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
